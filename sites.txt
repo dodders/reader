@@ -1,0 +1,5 @@
+[Bike Snob]
+url=https://bikesnobnyc.com/blog-feed/feed/
+
+[PV Cycling]
+url=https://pvcycling.wordpress.com/feed/
