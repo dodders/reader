@@ -3,8 +3,8 @@ import boto3
 # initialize aws connection.
 # credentials are loaded from environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY
 print('aws starting...')
-session = boto3.Session(profile_name='dep')
-sns = session.client('sns')
+# session = boto3.Session(profile_name='dep')
+sns = session.pclient('sns')
 s3 = session.resource('s3')
 
 
