@@ -1,4 +1,5 @@
-.idea
+package/
+.idea/
 *.zip
 
 # Byte-compiled / optimized / DLL files
