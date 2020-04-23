@@ -5,5 +5,5 @@ url=https://bikesnobnyc.com/blog-feed/feed/
 url=https://pvcycling.wordpress.com/feed/
 
 [Andy Slavitt]
-https://medium.com/feed/@ASlavitt
+url=https://medium.com/feed/@ASlavitt
 
